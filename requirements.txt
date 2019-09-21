@@ -1,2 +1,6 @@
 opencv-python
 argparse
+urlparse2
+numpy
+matplotlib
+scipy
