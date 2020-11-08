@@ -1,4 +1,10 @@
 # Graph Extractor
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
+     alt="Markdown Python icon"
+     height="70px"
+/>
+
+## Introduction
 
 A simple Python 3 script for coordinate extraction from an image of a graph.
 There are test images in the folder that can be used as a demo.
